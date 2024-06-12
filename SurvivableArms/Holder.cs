@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using Harmony;
 using BattleTech;
+using HBS.Logging;
 
 namespace SurvivableArms
 {
